@@ -16,7 +16,7 @@
     "web3modal": "^1.9.9"
   },
   "devDependencies": {
-    "eslint": "8.25.0",
+    "eslint": "8.25.1",
     "eslint-config-next": "12.3.1"
   }
 }
